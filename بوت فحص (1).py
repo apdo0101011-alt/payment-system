@@ -6,7 +6,7 @@ import telebot
 from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 # ----------------- الإعدادات الخاصة بك -----------------
-TOKEN = "8375794756:AAHxKzEE3dd0M_vVXf8aKX7Gxs7GyPgeE-A"
+TOKEN = "8737066685:AAG-q6j2SB_6idi-p3d5wb1K5Wrf5UsjifA"
 GATEWAY_URL = "http://localhost:8080/process_payment.php"
 API_KEY = "pk_live_default_node"
 # -----------------------------------------------------
